@@ -1,0 +1,10 @@
+﻿  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\Wrapper.cpp(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.lib and object C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  INFR3110-F2020-Lesson4.vcxproj -> C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.dll
